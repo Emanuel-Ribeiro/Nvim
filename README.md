@@ -1,3 +1,6 @@
 # Pre-requisites
   rip-grep\
-  tmux
+  tmux\
+  cargo\
+  golang\
+  npm
