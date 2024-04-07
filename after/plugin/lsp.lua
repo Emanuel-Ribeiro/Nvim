@@ -28,7 +28,7 @@ require('mason-lspconfig').setup({
           'helm_ls',
           'dockerls',
           'docker_compose_language_service',
-          'anakin_language_server',
+          'python-lsp-server',
           'cssls',
           'html',
           'htmx',
